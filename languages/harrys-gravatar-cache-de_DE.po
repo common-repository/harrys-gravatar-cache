@@ -1,0 +1,581 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Harrys Gravatar Cache\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-22 14:27+0000\n"
+"PO-Revision-Date: 2021-04-26 18:07+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: harrys-gravatar-cache.php:1292 harrys-gravatar-cache.php:1298
+msgid " day"
+msgstr "&nbsp;Tag"
+
+#: harrys-gravatar-cache.php:1292 harrys-gravatar-cache.php:1299
+#: harrys-gravatar-cache.php:1300 harrys-gravatar-cache.php:1301
+#: harrys-gravatar-cache.php:1302 harrys-gravatar-cache.php:1303
+msgid " days"
+msgstr "&nbsp;Tage"
+
+#: harrys-gravatar-cache.php:1292 harrys-gravatar-cache.php:1304
+msgid " week"
+msgstr "&nbsp;Woche"
+
+#: harrys-gravatar-cache.php:1292 harrys-gravatar-cache.php:1305
+#: harrys-gravatar-cache.php:1306 harrys-gravatar-cache.php:1307
+#: harrys-gravatar-cache.php:1308 harrys-gravatar-cache.php:1309
+#: harrys-gravatar-cache.php:1310 harrys-gravatar-cache.php:1311
+msgid " weeks"
+msgstr "&nbsp;Wochen"
+
+#: harrys-gravatar-cache.php:982 harrys-gravatar-cache.php:1165
+msgid "\" and check."
+msgstr "\" und prüfe."
+
+#: harrys-gravatar-cache.php:822
+msgid ""
+"Accelerates the site speed by simply and effective caching Gravatar "
+"(Globally Recognized Avatars) so that they are delivered from the own web "
+"server and do not need to be reloaded from the Gravatar server."
+msgstr ""
+"Beschleunigt die Website durch simples und effektives Caching von Gravataren "
+"(Globally Recognized Avatars) damit diese vom eigenenem Webserver "
+"ausgeliefert werden und nicht vom Gravatar-Server nachgeladen werden müssen."
+
+#: harrys-gravatar-cache.php:1419
+msgid "and for"
+msgstr "und für"
+
+#. Description of the plugin
+msgid ""
+"Beschleunigt die Website durch simples und effektives Caching von Gravataren "
+"(Globally Recognized Avatars), damit diese vom eigenenem Webserver "
+"ausgeliefert werden und nicht vom Gravatar-Server nachgeladen werden müssen."
+msgstr ""
+"Beschleunigt die Website durch simples und effektives Caching von Gravataren "
+"(Globally Recognized Avatars), damit diese vom eigenenem Webserver "
+"ausgeliefert werden und nicht vom Gravatar-Server nachgeladen werden müssen."
+
+#: harrys-gravatar-cache.php:1366
+msgid "Build the cache & check"
+msgstr "Precache & check"
+
+#: harrys-gravatar-cache.php:1386
+msgid "Build the cache & check the caching"
+msgstr "Precache & check caching"
+
+#: harrys-gravatar-cache.php:916
+msgid "Cache checking:"
+msgstr "Cacheüberprüfung:"
+
+#: harrys-gravatar-cache.php:914
+msgid "Cache folder writeable:"
+msgstr "Cacheordner beschreibbar:"
+
+#: harrys-gravatar-cache.php:1514
+msgid "Cache Path:"
+msgstr "Pfad zum Cacheordner:"
+
+#: harrys-gravatar-cache.php:912
+msgid "Cache time:"
+msgstr "Cachedauer:"
+
+#: harrys-gravatar-cache.php:1511
+msgid "Cache URL:"
+msgstr "URL zum Cacheordner:"
+
+#: harrys-gravatar-cache.php:1429
+msgid "cached on"
+msgstr "gecached am"
+
+#: harrys-gravatar-cache.php:1324
+msgid ""
+"Can reduce the file size but you should compare the file size between JPG "
+"and PNG after caching on the server:"
+msgstr ""
+"Kann die Dateigrösse verringern aber du solltest die Dateigrösse zwischen "
+"JPG und PNG nach dem Caching auf dem Server vergleichen:"
+
+#: harrys-gravatar-cache.php:1295
+msgid "change Cache time:"
+msgstr "Dauer der Cachegültigkeit ändern:"
+
+#: harrys-gravatar-cache.php:1272
+msgid "change copy option:"
+msgstr "Kopieroption ändern:"
+
+#: harrys-gravatar-cache.php:1204
+msgid "change Gravatar size:"
+msgstr "Gravatargröße ändern:"
+
+#: harrys-gravatar-cache.php:1228
+msgid "change second Gravatar size:"
+msgstr "zweite Gravatargröße ändern:"
+
+#: harrys-gravatar-cache.php:988 harrys-gravatar-cache.php:1171
+msgid "check if the caching folder is writeable"
+msgstr "Überprüfen ob der Cacheordner beschreibbar ist"
+
+#: harrys-gravatar-cache.php:950 harrys-gravatar-cache.php:1190
+#: harrys-gravatar-cache.php:1285
+msgid "check the server for available copy options"
+msgstr "Überprüfe den Server auf verfügbare Kopieroptionen"
+
+#: harrys-gravatar-cache.php:1350
+msgid "Check whether Gravatar has already been cached with?:"
+msgstr "Prüfe ob Gravatar bereits gecached wurde mit?:"
+
+#: harrys-gravatar-cache.php:1398 harrys-gravatar-cache.php:1442
+#: harrys-gravatar-cache.php:1474
+#, php-format
+msgid "click to expand all %1$s cached different Gravatars"
+msgstr "Klicke hier, um alle %1$s zwischengespeicherten Gravatare zu sehen"
+
+#: harrys-gravatar-cache.php:1467
+msgid "click to show only the first 6 different cached Gravatars"
+msgstr ""
+"Klicke hier, um nur die ersten 6 zwischengespeicherten Gravatare zu sehen"
+
+#: harrys-gravatar-cache.php:910
+msgid "Copy option:"
+msgstr "Kopieroption:"
+
+#: harrys-gravatar-cache.php:1042 harrys-gravatar-cache.php:1146
+msgid "correct permissions to 0755"
+msgstr "Berechtigungen zu 0755 korrigieren"
+
+#: harrys-gravatar-cache.php:1047 harrys-gravatar-cache.php:1151
+msgid "correct permissions to 0775"
+msgstr "Berechtigungen zu 0775 korrigieren"
+
+#: harrys-gravatar-cache.php:1006 harrys-gravatar-cache.php:1128
+msgid "create folder"
+msgstr "Ordner erstellen"
+
+#: harrys-gravatar-cache.php:1330
+msgid "Create PNG files from JPG files?"
+msgstr "PNG aus JPG erzeugen?:"
+
+#: harrys-gravatar-cache.php:1292
+msgid "current Cache time:"
+msgstr "Cache is gültig für:"
+
+#: harrys-gravatar-cache.php:1264
+msgid "current copy option:"
+msgstr "aktuelle Kopieroption:"
+
+#: harrys-gravatar-cache.php:1201
+msgid "current Gravatar size:"
+msgstr "aktuelle Gravatargröße:"
+
+#: harrys-gravatar-cache.php:1347 harrys-gravatar-cache.php:1353
+msgid "Database"
+msgstr "Datenbank"
+
+#: harrys-gravatar-cache.php:1388
+msgid ""
+"depends on your theme and the size for the Gravatars and the appearance in "
+"sidebars with other sizes"
+msgstr ""
+"hängt von deinem Template und der Größe der Gravatare und dem "
+"Erscheinungsbild in Seitenleisten mit anderen Größen ab"
+
+#: harrys-gravatar-cache.php:1363 harrys-gravatar-cache.php:1370
+msgid "Empty Cache"
+msgstr "Cache leeren"
+
+#: harrys-gravatar-cache.php:907 harrys-gravatar-cache.php:909
+#: harrys-gravatar-cache.php:911 harrys-gravatar-cache.php:913
+#: harrys-gravatar-cache.php:915 harrys-gravatar-cache.php:917
+msgid "false or empty"
+msgstr "falscher Wert oder leer"
+
+#: harrys-gravatar-cache.php:1508
+msgid "Filesize of cached files:"
+msgstr "Dateigrösse aller aktuell gecachten Dateien:"
+
+#: harrys-gravatar-cache.php:1347 harrys-gravatar-cache.php:1354
+msgid "Filesystem"
+msgstr "Dateisystem"
+
+#: harrys-gravatar-cache.php:906
+msgid "Gravatar Size:"
+msgstr "Gravatargröße:"
+
+#. Author of the plugin
+msgid "Harry Milatz"
+msgstr "Harry Milatz"
+
+#. Name of the plugin
+msgid "Harrys Gravatar Cache"
+msgstr "Harrys Gravatar Cache"
+
+#: harrys-gravatar-cache.php:95 harrys-gravatar-cache.php:96
+msgid "Harrys Gravatar Cache Settings"
+msgstr "Harrys Gravatar Cache Einstellungen"
+
+#: harrys-gravatar-cache.php:905
+msgid "Here is an overview of the options:"
+msgstr "Hier ist eine Übersicht der Optionen:"
+
+#: harrys-gravatar-cache.php:908
+msgid "How to get the Gravatar Size:"
+msgstr "Wie wurde die Gravatar Größe ermittelt:"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.all4hardware4u.de"
+msgstr "https://www.all4hardware4u.de"
+
+#: harrys-gravatar-cache.php:814
+msgid ""
+"If you like this plugin, please donate with PayPal or Amazon to support "
+"development and maintenance!"
+msgstr ""
+"Wenn dir das Plugin gefällt, dann freu ich mich wenn du etwas über PayPal "
+"oder Amazon spenden möchtest, um die Entwicklung und Fehlerbehebung zu "
+"unterstützen!"
+
+#: harrys-gravatar-cache.php:1327 harrys-gravatar-cache.php:1333
+msgid "no"
+msgstr "Nein"
+
+#: harrys-gravatar-cache.php:1505
+msgid "Number of files in cache:"
+msgstr "Anzahl gecachter Dateien:"
+
+#: harrys-gravatar-cache.php:1344
+msgid "On some sites the checking with the filesystem could be faster:"
+msgstr ""
+"Auf einigen Websites könnte die Prüfung über das Dateisystem schneller sein:"
+
+#: harrys-gravatar-cache.php:1218
+msgid "or enter Gravatar size manually (20-200 px):"
+msgstr "oder gib hier eine Gravatargröße ein (20-200 px):"
+
+#: harrys-gravatar-cache.php:1243
+msgid "or enter second Gravatar size manually (1-200 px):"
+msgstr "oder gib hier die zweite Gravatargröße ein (1-200 px):"
+
+#: harrys-gravatar-cache.php:1319
+msgid "Other options"
+msgstr "Andere Optionen"
+
+#: harrys-gravatar-cache.php:980 harrys-gravatar-cache.php:1163
+msgid "Please change the permissions to 0755 for the caching folder \""
+msgstr "Bitte ändere die Berechtigungen auf 0755 für den Cacheordner \""
+
+#: harrys-gravatar-cache.php:1090
+msgid ""
+"Please check the default Gravatar on your <a href=\"options-discussion.php\">"
+"\"Discussion setting page\"</a>."
+msgstr ""
+"Bitte überprüfe den Standard-Gravatar auf deiner <a href=\"options-"
+"discussion.php\"> \"Diskussionseinstellungsseite\" </a>."
+
+#: harrys-gravatar-cache.php:1079
+msgid ""
+"Please check the rating on your <a href=\"options-discussion.php\">"
+"\"Discussion setting page\"</a>."
+msgstr ""
+"Bitte überprüfe die Einstufung auf der <a href=\"options-discussion.php\">"
+"\"Diskussions Einstellungsseite\"</a>."
+
+#: harrys-gravatar-cache.php:1101
+msgid ""
+"Please check the settings on your <a href=\"options-discussion.php\">"
+"\"Discussion setting page\"</a>."
+msgstr ""
+"Bitte überprüfe die Einstellungen auf deiner <a href=\"options-discussion."
+"php\"> \"Diskussionseinstellungsseite\" </a>."
+
+#: harrys-gravatar-cache.php:944 harrys-gravatar-cache.php:1183
+msgid "Please contact your hoster to make one of these functions available:"
+msgstr ""
+"Bitte kontaktiere deinen Hoster, um eine von diesen Funktionen verfügbar zu "
+"machen:"
+
+#: harrys-gravatar-cache.php:1036 harrys-gravatar-cache.php:1140
+msgid ""
+"Please press the button to correct the permissions for the caching folder or "
+"change manually the permissions to 0755 or 0775."
+msgstr ""
+"Bitte den Button drücken, um zu versuchen die Berechtigungen des "
+"Cacheordners auf 0755 oder 0775 zu korrigieren."
+
+#: harrys-gravatar-cache.php:1000 harrys-gravatar-cache.php:1122
+msgid "Please press the button to create the caching folder."
+msgstr "Bitte den Button drücken, um zu versuchen den Ordner zu erstellen."
+
+#: harrys-gravatar-cache.php:1018
+msgid "Please press the button to set the default option(database)."
+msgstr ""
+"Bitte drücke den Button, um die Standardoption (Datenbank) festzulegen."
+
+#: harrys-gravatar-cache.php:962
+msgid "Please press the button to set the default time."
+msgstr "Bitte drücke den Button, um die Standardzeit festzulegen."
+
+#: harrys-gravatar-cache.php:1327
+msgid "PNG files are generated from JPG files:"
+msgstr "PNG werden aus JPG erzeugt:"
+
+#: harrys-gravatar-cache.php:1362
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+#: harrys-gravatar-cache.php:1225
+msgid "second Gravatar size:"
+msgstr "zweite Gravatargröße:"
+
+#: harrys-gravatar-cache.php:1201 harrys-gravatar-cache.php:1207
+#: harrys-gravatar-cache.php:1208 harrys-gravatar-cache.php:1209
+#: harrys-gravatar-cache.php:1210 harrys-gravatar-cache.php:1211
+#: harrys-gravatar-cache.php:1212 harrys-gravatar-cache.php:1213
+#: harrys-gravatar-cache.php:1225 harrys-gravatar-cache.php:1231
+#: harrys-gravatar-cache.php:1232 harrys-gravatar-cache.php:1233
+#: harrys-gravatar-cache.php:1234 harrys-gravatar-cache.php:1235
+#: harrys-gravatar-cache.php:1236 harrys-gravatar-cache.php:1237
+#: harrys-gravatar-cache.php:1238
+msgid "set by plugin"
+msgstr "vom Plugin gesetzt"
+
+#: harrys-gravatar-cache.php:1201 harrys-gravatar-cache.php:1207
+#: harrys-gravatar-cache.php:1208 harrys-gravatar-cache.php:1209
+#: harrys-gravatar-cache.php:1210 harrys-gravatar-cache.php:1211
+#: harrys-gravatar-cache.php:1212 harrys-gravatar-cache.php:1213
+#: harrys-gravatar-cache.php:1225 harrys-gravatar-cache.php:1231
+#: harrys-gravatar-cache.php:1232 harrys-gravatar-cache.php:1233
+#: harrys-gravatar-cache.php:1234 harrys-gravatar-cache.php:1235
+#: harrys-gravatar-cache.php:1236 harrys-gravatar-cache.php:1237
+#: harrys-gravatar-cache.php:1238
+msgid "set by template"
+msgstr "vom Template ausgelesen"
+
+#: harrys-gravatar-cache.php:1201 harrys-gravatar-cache.php:1207
+#: harrys-gravatar-cache.php:1208 harrys-gravatar-cache.php:1209
+#: harrys-gravatar-cache.php:1210 harrys-gravatar-cache.php:1211
+#: harrys-gravatar-cache.php:1212 harrys-gravatar-cache.php:1213
+#: harrys-gravatar-cache.php:1225 harrys-gravatar-cache.php:1231
+#: harrys-gravatar-cache.php:1232 harrys-gravatar-cache.php:1233
+#: harrys-gravatar-cache.php:1234 harrys-gravatar-cache.php:1235
+#: harrys-gravatar-cache.php:1236 harrys-gravatar-cache.php:1237
+#: harrys-gravatar-cache.php:1238
+msgid "set by you"
+msgstr "von dir manuell gesetzt"
+
+#: harrys-gravatar-cache.php:1024
+msgid "set default check"
+msgstr "Standardprüfung festlegen"
+
+#: harrys-gravatar-cache.php:968
+msgid "set default time"
+msgstr "Standardzeit festlegen"
+
+#: harrys-gravatar-cache.php:105 harrys-gravatar-cache.php:823
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: harrys-gravatar-cache.php:915
+msgid "should be a number 0 or 1"
+msgstr "es sollte eine Zahl 0 oder 1 sein"
+
+#: harrys-gravatar-cache.php:917
+msgid "should be a number 1 or 2"
+msgstr "es sollte eine Zahl 1 oder 2 sein"
+
+#: harrys-gravatar-cache.php:909
+msgid "should be a number between 1 and 3"
+msgstr "es sollte eine Zahl zwischen 1 und 3 sein"
+
+#: harrys-gravatar-cache.php:911
+msgid "should be a number between 1 and 4"
+msgstr "es sollte eine Zahl zwischen 1 und 4 sein"
+
+#: harrys-gravatar-cache.php:907
+msgid "should be a number between 20 and 200"
+msgstr "es sollte eine Zahl zwischen 20 und 200 sein"
+
+#: harrys-gravatar-cache.php:913
+msgid "should be a number in seconds between 1440 and 80640"
+msgstr "es sollte eine Zahl in Sekunden zwischen 1440 und 80640 sein"
+
+#: harrys-gravatar-cache.php:1225
+msgid "some themes maybe have a second Gravatar size for the sidebar"
+msgstr ""
+"Einige Templates haben möglicherweise eine zweite Gravatargröße für die "
+"Seitenleiste"
+
+#: harrys-gravatar-cache.php:1479
+msgid "Statistics"
+msgstr "Statistik"
+
+#: harrys-gravatar-cache.php:1062
+#, php-format
+msgid "The database table \"%1$s\" should look like this:"
+msgstr "Die Datenbanktabelle \"%1$s\" sollte so ähnlich aussehen:"
+
+#: harrys-gravatar-cache.php:1387
+msgid "the following different gravatars and sizes"
+msgstr "Die folgenden verschiedenen Gravatare und Größen"
+
+#: harrys-gravatar-cache.php:1056
+msgid ""
+"These error(s) can not be solved with the plugin settings. Try to enable "
+"debugging and check the log-files. After you found a reason for the issue "
+"and eliminate this, try to deactivate and deinstall and after this reinstall "
+"the plugin."
+msgstr ""
+"Diese(r) Fehler kann/können nicht mit den Plugineinstellungen behoben werden."
+" Versuche bitte das Debugging einzuschalten und prüfe die Log-Dateien. Wenn "
+"du einen Grund für den/die Fehler gefunden und diesen eleminiert hast, dann "
+"versuche das Plugin zu deaktivieren, es dann zu deinstallieren und danach es "
+"wieder zu installieren."
+
+#: harrys-gravatar-cache.php:1367
+msgid "to generate the cache complete new, empty the cache:"
+msgstr "um den Cache komplett neu zu generieren, leere den Cache:"
+
+#: harrys-gravatar-cache.php:932 harrys-gravatar-cache.php:1252
+msgid "Try to get the Gravatar size from the template"
+msgstr "Versuche die Gravatargröße vom Template auszulesen"
+
+#: harrys-gravatar-cache.php:942 harrys-gravatar-cache.php:1181
+#| msgid "Attention!! NO option for getting the Gravatars is available!!"
+msgid "Watch out!! NO option for getting the Gravatars is available!!"
+msgstr "Achtung!! Es sind KEINE Kopieroptionen verfügbar!!"
+
+#: harrys-gravatar-cache.php:998 harrys-gravatar-cache.php:1120
+#| msgid "Attention!! the caching folder is not exist!!"
+msgid "Watch out!! The caching folder is not exist!!"
+msgstr "Achtung!! Der Cacheordner ist nicht vorhanden!!"
+
+#: harrys-gravatar-cache.php:978 harrys-gravatar-cache.php:1161
+#| msgid "Attention!! the caching folder is not writeable!!"
+msgid "Watch out!! The caching folder is not writeable!!"
+msgstr "Achtung!! Der Cacheordner ist nicht beschreibbar!!"
+
+#: harrys-gravatar-cache.php:960
+#| msgid "Attention!! the caching time is not set!!"
+msgid "Watch out!! The caching time is not set!!"
+msgstr "Achtung!! Die Caching-Zeit ist nicht gesetzt!!"
+
+#: harrys-gravatar-cache.php:903
+#, php-format
+#| msgid ""
+#| "Attention!! The database table \"%1$s\" could not be filled with the "
+#| "neccessary options for this plugin!!"
+msgid ""
+"Watch out!! The database table \"%1$s\" could not be filled with the "
+"neccessary options for this plugin!!"
+msgstr ""
+"Achtung!! Die Datenbanktabelle \"%1$s\" konnte nicht mit den nötigen "
+"Optionen für dieses Plugin beschrieben werden!!"
+
+#: harrys-gravatar-cache.php:1016
+#| msgid ""
+#| "Attention!! the option how to check the cached Gravatars is not set!!"
+msgid "Watch out!! The option to check the cached gravatars is not set."
+msgstr ""
+"Achtung!! Die Option zum Überprüfen der zwischengespeicherten Gravatare ist "
+"nicht festgelegt."
+
+#: harrys-gravatar-cache.php:1034 harrys-gravatar-cache.php:1138
+#| msgid "Attention!! the permissions of the caching folder are not correct!!"
+msgid "Watch out!! The permissions of the caching folder are not correct!!"
+msgstr "Achtung!! Der Cacheordner hat nicht korrekten Berechtigungen!!"
+
+#: harrys-gravatar-cache.php:1077
+#| msgid ""
+#| "Attention!! the rating option for Gravatars is empty. It is set to rating "
+#| "\"R\" for getting the (Gr)Avatars."
+msgid ""
+"Watch out!! the rating option for Gravatars is empty. It is set to rating "
+"\"R\" for getting the (Gr)Avatars."
+msgstr ""
+"Achtung!! Die Einstufung für die Gravatarbilder ist leer. Das Plugin setzt "
+"die Einstufung auf \"R\", um die (Gr)Avatare zu cachen."
+
+#: harrys-gravatar-cache.php:926
+#| msgid ""
+#| "Attention!! The size for the Gravatars is not set correctly or is not "
+#| "present!!"
+msgid ""
+"Watch out!! The size for the Gravatars is not set correctly or is not "
+"present!!"
+msgstr ""
+"Achtung!! Die Gravatargröße ist nicht richtig eingestellt oder nicht "
+"vorhanden!!"
+
+#: harrys-gravatar-cache.php:1201 harrys-gravatar-cache.php:1225
+#| msgid "Attention!! The template has changed!!"
+msgid "Watch out!! The template has changed!!"
+msgstr "Achtung!! Das Template wurde gewechselt!!"
+
+#: harrys-gravatar-cache.php:1110
+#, php-format
+#| msgid ""
+#| "Attention!! you changed the default Gravatar from \"%1$s\" to \"%2$s\". "
+#| "You should empty the cache."
+msgid ""
+"Watch out!! You changed the default Gravatar from \"%1$s\" to \"%2$s\". You "
+"should empty the cache."
+msgstr ""
+"Achtung!! Du hast den Standard-Gravatar von \"%1$s\" zu \"%2$s\" geändert. "
+"Du solltest den Cache leeren."
+
+#: harrys-gravatar-cache.php:1088
+msgid ""
+"Watch out!! You choose \"Random wapuus everywhere (No gravatars at all)\" "
+"for the default Gravatars. No caching is required to get the (Gr) avatars."
+msgstr ""
+"Achtung!! Du hast \"Zufällige Wapuus überall (Überhaupt keine Gravatars)\" "
+"für die Standard-Gravatare gewählt. Es ist kein Caching erforderlich, um die "
+"(Gr)Avatare zu erhalten."
+
+#: harrys-gravatar-cache.php:1099
+msgid ""
+"Watch out!! You don't want to display any avatars. No caching is required to "
+"get the (Gr) avatars."
+msgstr ""
+"Achtung!! Du möchtest keine Avatare anzeigen lassen. Es ist kein Caching "
+"erforderlich, um die (Gr)Avatare zu erhalten."
+
+#: harrys-gravatar-cache.php:1446
+msgid "were cached from the following different URLs"
+msgstr "wurden von folgenden verschiedenen URLs gecached"
+
+#: harrys-gravatar-cache.php:1347
+msgid "Whether Gravatar has already been cached is checked via:"
+msgstr "Ob Gravatar bereits gecached wurde, wird geprüft über:"
+
+#: harrys-gravatar-cache.php:1327 harrys-gravatar-cache.php:1334
+msgid "yes"
+msgstr "Ja"
+
+#: harrys-gravatar-cache.php:1523
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Du hast nicht die erforderlichen Berechtigungen, um diese Seite aufzurufen."
+
+#: harrys-gravatar-cache.php:1261
+msgid "your server accepts the following copy options to get the Gravatar:"
+msgstr ""
+"Dein Server akzeptiert folgende Methoden, um die Gravatare lokal zu "
+"speichern:"
